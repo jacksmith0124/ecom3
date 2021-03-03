@@ -1,0 +1,99 @@
+All Category and Sub Category Name 
+
+Mens Fashion 
+-- Gents Tshirt
+-- Gents Shirt 
+-- Gents Pant
+
+Womens Fashion 
+-- Womens Tshirt
+-- Womens Shirt 
+-- Womens Pant
+
+Childs 
+-- Child Dress & Footware
+-- Child Body Care
+-- Child Diaper 
+
+Watch 
+-- Gents Watch
+-- Womans Watch
+-- Kids Watch
+
+Furniture 
+
+Electronics 
+
+Health 
+
+Beauty 
+-- Body Spray 
+-- Finger Ring
+-- Jewelry 
+
+Sports & Outdoor 
+
+Home & Living
+-- Appliances 
+-- Room Decoration
+-- Light and Lamp
+-- Security 
+ 
+---- Shop Brand Name 
+-Sony 
+-Rado 
+-Lenovo
+-Assus 
+-Cannon 
+ -Dell 
+-Gucci
+-Levis
+-Nike
+-Adidas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
